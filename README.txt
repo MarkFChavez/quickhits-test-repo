@@ -19,3 +19,39 @@ Proposed technical requirements for this project.
 
 
 
+Features:
+
+
+Admin
+
+- project/s management
+	a. progress monitoring
+	b. documentation
+
+- accounting
+
+- available layouts (for standard users)
+
+- CMS
+
+
+Standard User
+
+- "to do" list
+
+- calendar
+
+- places visited
+
+- friend list
+
+- groups
+
+- chat
+
+
+Clients
+
+- CMS
+
+- POS

@@ -25,3 +25,4 @@ Proposed technical requirements for this project.
 	
 	e. 	For the application's design i'm suggesting that we use bootstraps latest version RC3 customization 
 	of the site might be done after we have decided a layout - axel	
+

@@ -11,6 +11,9 @@ Proposed technical requirements for this project.
 * Possible languages to use:
 	- Ruby (Ruby on Rails)
 	- PHP (Laravel)
+	- Javascript
+		Libraries:
+			-jQuery
 
 * Setup: (Possible options)
 	a. Application will be API-centric. (Not yet sure)

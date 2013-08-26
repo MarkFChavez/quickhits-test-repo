@@ -18,6 +18,7 @@ Proposed technical requirements for this project.
 * Setup: (Possible options)
 	a. Application will be API-centric. (Not yet sure)
 		- Ruby on Rails as an API? (Using Rack-CORS, Rails-API and Custom Serializers for JSON response)
+		- If we are going to use laravel, we might as well use Laravel for our API. Laravel Routes is powerfull enough to handle this and would keep our codes centralized as of the moment
 	b. Application will be built using the Laravel framework
 
 	c. Application images will be called via API still undecided if our team will create its own API 

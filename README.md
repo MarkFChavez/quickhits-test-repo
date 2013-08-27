@@ -20,6 +20,14 @@ Proposed technical requirements for this project.
 		- Ruby on Rails as an API? (Using Rack-CORS, Rails-API and Custom Serializers for JSON response)
 		- If we are going to use laravel, we might as well use Laravel for our API. Laravel Routes is powerfull enough to handle this and would keep our codes centralized as of the moment
 	b. Application will be built using the Laravel framework
+	
+*Setup Response:
+	- If I were to choose between RoR and Laravel for an API-centric approach I'd go for RoR as of the moment. Currently I'm 
+	converting some applications to laravel 4 unfortunetly laravel 4 has to many loop holes compared to RoR an example 
+	of this is the migration class of laravel, some of the mysql field types are not supported one of them is enum. I'm not sure
+	if RoR has the same problem lets ask Mark. Second point why I'll choose RoR as our first option becuase for me it has a 
+	better documentation Mark is a living documentation hahaha... but laravel 4 is also an option let's just have a quick 
+	brainstorming for this topic 
 
 	c. Application images will be called via API still undecided if our team will create its own API 
 	or use existing API's - axel
